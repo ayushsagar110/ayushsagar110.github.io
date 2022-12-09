@@ -1,0 +1,16 @@
+article{
+     border: 3px solid grey;
+}
+header{
+    background-color:yellow;
+}
+footer{
+    background-color:black;
+    color:white;
+}
+article:hover{
+    border: 3px solid black;
+}
+article{
+    border-radius:5px ;
+}
