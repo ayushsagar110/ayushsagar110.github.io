@@ -1,0 +1,16 @@
+#first{
+    border: 2px solid black;
+    height: 1100px;
+    width: 300px;
+    margin: auto;
+}
+h4{
+    position: sticky;
+    top:5px;
+    
+}
+p{
+    margin-left: 250px;
+    position: fixed;
+    bottom: 30px;
+}

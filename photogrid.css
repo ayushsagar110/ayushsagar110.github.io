@@ -1,0 +1,35 @@
+#a{
+    border: 5px solid black;
+    height: 600px;
+    width: 600px;
+    margin: auto;
+    position: relative;
+}
+#b{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
+#c{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+#d{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+}
+#e{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}

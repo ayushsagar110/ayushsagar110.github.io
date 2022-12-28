@@ -1,13 +1,19 @@
-.red{
+img {
     background-color: blue;
-   border: 2px solid black;
-   height: 100px;
-   width: 100px;
-}
-.blue{
-    background-color:red;
-    border: 2px solid black;
-    border-radius: 50px ;
+    width: 100px;
     height: 100px;
-    width: 100px; 
+    border-radius: 70px;
+    border: 20px solid red;
+}
+#second {
+    border: 20px solid yellow;
+    width: 140px;
+    height: 140px;
+    border-radius: 90px;
+}
+#first {
+    border: 20px solid red;
+    width: 180px;
+    height: 180px;
+    border-radius: 110px;
 }

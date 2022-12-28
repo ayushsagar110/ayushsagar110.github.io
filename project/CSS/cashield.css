@@ -1,0 +1,19 @@
+img{
+    height: 100px;
+    width:100px;
+    background-color: blue;
+    border:20px solid red;
+    border-radius:70px;
+}
+#second{
+    border:20px solid white;
+    height:140px;
+    width:140px;
+    border-radius:90px;
+}
+#first{
+    border:20px solid red;
+    height: 180px; 
+    width: 180px;
+    border-radius:110px;
+}

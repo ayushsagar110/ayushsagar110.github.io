@@ -2,6 +2,7 @@ article header{
     background-color:black;
     color:white;
     width:280px;
+    font-size: 20px;
 }
 .third{
     border: 5px solid black;
@@ -15,4 +16,29 @@ article header{
 .second:hover{
     background-color:grey;
     border:2px solid grey;
+}
+.first:hover{
+    /* border: 1px solid black; */
+    border: 1px solid black;
+}
+.s{
+    
+    float: right;
+    margin: 22px;
+}
+.first{
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 1px;
+}
+.first>h1{
+    display: inline-block;
+    margin: 10px;
+}
+#l{
+    color: white;
+}
+main{
+    font-size: 20px;
 }
